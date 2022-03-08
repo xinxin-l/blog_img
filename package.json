@@ -1,0 +1,22 @@
+{
+  "name": "xinxin-l-assets",
+  "version": "1.0.0",
+  "description": "静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinxin-l/blog_img.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "xinxin-l",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinxin-l/blog_img/issues"
+  },
+  "homepage": "https://github.com/xinxin-l/blog_img#readme"
+}
